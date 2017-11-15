@@ -1,0 +1,38 @@
+@import url('https://fonts.googleapis.com/css?family=Merriweather');
+
+
+body {
+	background-color: beige;
+	text-align: center;
+	max-width: 1000px;
+}
+h1 {
+	font-size: 24px;
+	font-family: 'Merriweather';
+}
+.first-row,
+.second-row,
+.third-row {
+	border: 0;
+	border-radius: 4px;
+	padding: 10px;
+	margin: 18px auto;
+	width: 700px;
+}
+
+.first-row {
+	background-color: aliceblue;	
+}
+
+.second-row {
+	background-color: yellowgreen;
+	
+}
+.third-row {
+	background-color: whitesmoke;
+	
+}
+
+p {
+	font-size: 40px;
+}
