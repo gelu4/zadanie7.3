@@ -14,11 +14,7 @@ h1 {
 .second-row,
 .third-row {
 	border: 0;
-<<<<<<< HEAD
-	border-radius: 1px;
-=======
 	border-radius: 18px;
->>>>>>> feature_2
 	padding: 10px;
 	margin: 18px auto;
 	width: 700px;
